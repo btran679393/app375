@@ -1,0 +1,45 @@
+name: app375
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.13.0
+  cloud_firestore: ^5.6.6
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.2.2
+
+  http: ^0.13.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/onepc.jpg
+    - assets/AttackonTitan.jpg
+    - assets/Naruto.jpg
+    - assets/DemonSlayer.jpg
+    - assets/JJK.jpg
+    - assets/Bleach.jpg
+    - assets/Chainsaw.jpg
+    - assets/Clannad.jpg
+    - assets/Fruit.jpg
+    - assets/Horimiya.jpg
+    - assets/Love.jpg
+    - assets/MyHero.jpg
+    - assets/SoloLevling.jpg
+    - assets/Tokyo.jpg
+    - assets/Toradora.jpg
+    - assets/Tqq.jpg
+    - assets/Yourlie.jpg

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "64564692469",
+    "project_id": "btanime-67539",
+    "storage_bucket": "btanime-67539.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64564692469:android:9fdb4c5cfb25d11a2bccbc",
+        "android_client_info": {
+          "package_name": "com.example.app375"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr7B7POrbH6QgCgJ_M1WVmORVJYRqGeMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
